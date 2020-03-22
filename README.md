@@ -1,3 +1,3 @@
 # notes
 
-利用 github 中项目的 issue/project 归档分享博客内容
+通过 github 中notes项目的 issue 来归档分享笔记内容
