@@ -6,9 +6,11 @@
 
 - [Java相关知识整理（1）](https://github.com/hjs557523/notes/issues/1)
 
+- [Java相关知识整理（2）](https://github.com/hjs557523/notes/issues/3)
 
 ### JavaScript
 - [微信小程序开发](https://github.com/hjs557523/notes/issues/2)
+
 ### Vue
 ### go
 ### leetcode
