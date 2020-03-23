@@ -8,6 +8,7 @@
 
 
 ### JavaScript
+- [微信小程序](https://github.com/hjs557523/notes/issues/2)
 ### Vue
 ### go
 ### leetcode
