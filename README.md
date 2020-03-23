@@ -4,7 +4,7 @@
 
 ### Java
 
-- [Java相关知识整理（一）](https://github.com/hjs557523/notes/issues/1)
+- [Java相关知识整理（1）](https://github.com/hjs557523/notes/issues/1)
 
 
 ### JavaScript
