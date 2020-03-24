@@ -8,6 +8,8 @@
 
 - [MyBatis传参方式总结](https://github.com/hjs557523/notes/issues/3)
 
+- [&0xff 的作用](https://github.com/hjs557523/notes/issues/4)
+
 ### JavaScript/微信小程序
 - [第三方插件 —— Towxml](https://github.com/hjs557523/notes/issues/2)
 
