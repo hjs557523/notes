@@ -16,6 +16,8 @@
 
 - [第三方插件 —— Towxml](https://github.com/hjs557523/notes/issues/2)
 
+- [Base64编码解码](https://github.com/hjs557523/notes/issues/6)
+
 ### Vue
 ### go
 ### leetcode
