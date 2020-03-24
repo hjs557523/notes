@@ -4,9 +4,9 @@
 
 ### Java
 
-- [Java相关知识整理（1）](https://github.com/hjs557523/notes/issues/1)
+- [Spring事务管理 —— @Transactional](https://github.com/hjs557523/notes/issues/1)
 
-- [Java相关知识整理（2）](https://github.com/hjs557523/notes/issues/3)
+- [MyBatis传参方式总结](https://github.com/hjs557523/notes/issues/3)
 
 ### JavaScript/微信小程序
 - [第三方插件 —— Towxml](https://github.com/hjs557523/notes/issues/2)
